@@ -13,7 +13,7 @@ This module covers Azure networking services, including virtual networks, load b
   * Configure DNS settings
   * Configure network security groups (NSGs)
   * Implement Azure Firewall
-
+ 
 ### 2. Configure Load Balancing
 * **Microsoft Learn Path**: [Configure load balancing](https://learn.microsoft.com/en-us/training/modules/load-balance-web-traffic-with-application-gateway/)
 * **Key Topics**:
