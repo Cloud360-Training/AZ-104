@@ -1,4 +1,4 @@
-# AZ-104 Microsoft Azure Administrator: Ninja Training
+# AZ-104 Microsoft Azure Administrator: Training
 
 Welcome to the **AZ-104 Microsoft Azure Administrator Ninja Training**! This repository is your comprehensive resource for preparing for the AZ-104 certification exam, one of Microsoft's most sought-after Azure certifications.
 
